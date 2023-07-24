@@ -14,4 +14,4 @@
 ## Project Links:
 - https://github.com/junho2000/SEA-ME-warm-up (Warm-Up week)
 - https://github.com/junho2000/qt-grahical-phonebook
-- https://github.com/junho2000/Embedded-Systems (Enbedded Systems)
+- https://github.com/junho2000/Embedded-Systems (Embedded Systems)
